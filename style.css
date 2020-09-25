@@ -1,0 +1,47 @@
+.bgimg{
+	background-image: url('summer.jpg');
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 100%;
+	height: 650px;
+}
+.headerset{
+	padding-top: 200px;
+    box-sizing: border-box;}
+    
+.headerset h2{
+    font-size: 42px;
+    color: crimson;
+    font-weight: bold;
+}
+
+.headerset h1{
+	font-size: 72px;
+    font-weight: bold;
+    color: crimson;
+}
+ 
+.r1{
+    display: inline-flex;
+}
+.f1{
+    padding: 1.5px;
+}
+.f2{
+    padding: 1.5px;
+}
+.f3{
+    padding: 1.5px;
+}
+
+.f1:hover{
+    box-shadow: 5px 5px 15px rgb(248, 122, 122);
+    height: 50px;
+    width: 50px;
+    
+}
+.f2:hover{
+    box-shadow: 5px 5px 15px rgb(248, 122, 122);
+    height: 50px;
+    width: 50px;
+}
